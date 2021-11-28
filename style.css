@@ -1,0 +1,8 @@
+body {
+  background-color: bisque;
+}
+
+#palindromeCheck, #userPrompt {
+  font-size: larger;
+  text-align: center;
+}
